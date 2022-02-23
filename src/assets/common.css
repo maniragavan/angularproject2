@@ -1,0 +1,11 @@
+.ng-invalid.ng-touched {
+  border-color: red;
+}
+
+.errormsg {
+  color: red;
+}
+
+.card-header {
+  background-color: cornflowerblue;
+}

@@ -1,0 +1,34 @@
+[{
+  "id":1,
+  "isRent":1,
+  "name": "VIP House",
+  "price":200000,
+  "Place":"Chennai",
+  "image":"assets/h2.jpeg"
+},
+{
+  "id":2,
+  "isRent":1,
+  "name": "ECR Villa",
+  "price":2000000,
+  "Place":"Chennai",
+  "image":"assets/h1.jpg"
+},
+{
+  "id":3,
+  "name": "Guest House",
+  "isRent":2,
+  "price":100000,
+  "Place":"Bangalore",
+  "image":"assets/h4.jpeg"
+
+},
+{
+  "id":3,
+  "isRent":2,
+  "name": "OMR House",
+  "price":100000,
+  "Place":"Bangalore",
+  "image":"assets/h3.jpg"
+
+}]
